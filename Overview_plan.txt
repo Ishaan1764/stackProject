@@ -1,0 +1,20 @@
+UserModel Details:
+
+fullname -> String
+email -> String
+password ->String
+cart-> array(ids ka)
+isadmin -> boolean
+orders-> array
+contact-> number
+picture -> String(db)
+
+
+Product:
+image
+name
+price
+discount
+bgcolor
+pannel color
+text color
