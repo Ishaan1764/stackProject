@@ -18,3 +18,14 @@ discount
 bgcolor
 pannel color
 text color
+
+
+
+routes:
+
+/-> signup/login
+/shop -> shop
+/users/cart -> cart
+/admin -> adminpannel
+/owner/products ->show all products.
+/owner/main -> show admin panel to create products.

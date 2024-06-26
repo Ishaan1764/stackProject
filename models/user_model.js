@@ -9,7 +9,7 @@ const userSchema=mongoose.Schema({
         type:Array,
         default:[]
     },
-    isadmin:boolean,
+    // isadmin:boolean, hmne alag se owner model bnaya hua hai to we don't need to have this.
     orders:{
         type:Array,
         default:[]
